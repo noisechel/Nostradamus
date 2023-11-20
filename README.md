@@ -8,7 +8,7 @@ The project leverages techniques, paradigms and data structures such as:
 - Machine Learning
 - Sentiment Analysis
 - Concurrency and Parallel Processing
-- Direct Acyclic Graph (D.A.G.)
+- Direct Acyclic Graph (dsf)
 - Data Pipeline
 - Idempotence
 
